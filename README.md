@@ -1,5 +1,4 @@
 # Parkinson-Prediction-App
-# Parkinson’s Disease Severity Prediction using Machine Learning
 
 This project presents a machine learning–based system that predicts the severity of Parkinson’s disease using biomedical voice measurements. The model analyzes multiple voice-related features and estimates disease severity using the Unified Parkinson’s Disease Rating Scale (UPDRS).
 
